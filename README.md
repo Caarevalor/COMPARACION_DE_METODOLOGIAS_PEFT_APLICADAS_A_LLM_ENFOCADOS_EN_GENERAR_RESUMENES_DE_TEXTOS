@@ -1,0 +1,2 @@
+# COMPARACION_DE_METODOLOGIAS_PEFT_APLICADAS_A_LLM_ENFOCADOS_EN_GENERAR_RESUMENES_DE_TEXTOS
+Repositorio sobre tesis comparando resultados obtenidos entre un fine tuning tradicional y uno con metodologias PEFT
