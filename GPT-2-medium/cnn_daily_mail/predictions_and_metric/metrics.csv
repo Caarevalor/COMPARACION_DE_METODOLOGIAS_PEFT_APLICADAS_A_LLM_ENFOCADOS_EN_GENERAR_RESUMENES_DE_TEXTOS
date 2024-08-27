@@ -1,0 +1,2 @@
+bleu_score,1-gram precision,2-gram precision,3-gram precision,4-gram precision,rouge1,rouge2,rougeL,rougeLsum
+0.119,0.334,0.143,0.08,0.052,0.371,0.163,0.266,0.348
